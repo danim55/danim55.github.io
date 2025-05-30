@@ -1,13 +1,12 @@
 :root {
-    --dark-navy: #242a35; 
-    --darker-navy: rgb(21, 23, 28); 
-    --bg-light:#f8f9fa;
-    --primary:#e53889;
-    --primary-dark:#AC1754;
+    --dark-navy: rgb(36, 42, 53); /* Dark background color */
+    --darker-navy: rgb(21, 23, 28); /* Darker background color */
+    --bg-light: #f8f9fa;           /* Light background color */
+    --primary: rgb(255, 121, 51);  /* Orange accent color */
+    --primary-dark: rgb(217, 94, 36); /* Darker version of orange */
     --dark-navy-trasparent: rgba(36, 42, 53, 0.7);
     --dark-navy-little-trasparent: rgba(36, 42, 53, 0.2);
-    --dark-navy-big-trasparent: rgba(36, 42, 53, 0.8);
-    --primary-trasparent: rgba(229, 56, 137, 0.4);
+    --primary-trasparent: rgba(255, 121, 51, 0.4);
 }
 /*
 rgb(0, 210, 242)
