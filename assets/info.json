@@ -1,0 +1,64 @@
+{
+  "projects": [
+        {
+      "title": "Insurance Application",
+      "stack": ["Python", "Angular", "Docker"],
+      "description": "The project involved developing a basic API REST based app with a backend developed in python and the frontend in Angular",
+      "image": "assets/projects/SecureAndInteroperableInsuranceApplication.png",
+      "url": "https://github.com/danim55/cat_exercise"
+    }
+  ],
+  "education": [
+    {
+      "period": "2018 - 2022",
+      "title": "Telecommunications Engineering",
+      "institution": "Autonomous University of Madrid, Spain"
+    },
+    {
+      "period": "2022 - 2023",
+      "title": "Master of Business Management",
+      "institution": "UEMC Bussines School, Spain"
+    },
+    {
+      "period": "2024 - 2026",
+      "title": "Master of Telecommunications Engineering",
+      "institution": "UNIR International University of Rioja, Spain"
+    }
+  ],
+  "experience": [
+    {
+      "period": "2022 - 2023",
+      "title": "Junior Software Engineer",
+      "company": "Thales Alenia Space, Madrid, Spain"
+    },
+    {
+      "period": "2023 - Today",
+      "title": "Software & Ground Engineer",
+      "company": "Thales Alenia Space, Madrid, Spain"
+    }
+  ],
+  "quote": {
+    "text": "“First with the head, then with the heart, you'll be ahead from the start.",
+    "author": "Bryce Courtenay",
+    "image": "assets/img/quote.jpg"
+  },
+  "about": {
+    "name": "Daniel Merino Cano",
+    "title": "Software Engineer",
+    "description": "I'm a Software Engineer at Thales Alenia Space, passionate about building robust, scalable full-stack solutions for satellite data processing. I specialize in Angular, TypeScript, HTML/CSS on the front end and Java Spring Boot on the back end, with CI/CD pipelines in GitLab, container orchestration via Kubernetes and Docker, and automation/AI integration using Python. I’m driven by adaptability, critical thinking, and a disciplined, open-minded approach to cybersecurity and system hardening, ensuring every release is resilient and secure. Continuously learning and collaborating across disciplines, I bridge the gap between technology, business needs, and real-world applications.",
+    "image": "assets/img/personal-foto.jpeg"
+  },
+
+  "home": {
+    "name": "Daniel<br>Merino Cano",
+    "subtitle": "Passionate about <em class='text-primary-light'>developing software solutions</em>, and committed to continuous learn with <em class='text-primary-light'>discipline</em>.",
+    "resume": "/assets/Cv_Daniel_Merino_Cano"
+  }
+  ,
+  "certifications": [
+    {
+      "title": "Cambridge Advanced Certificate (CAE)",
+      "description": "An internationally recognized English language certification that assesses high-level proficiency in reading, writing, listening, and speaking. It demonstrates the ability to communicate effectively in professional and academic settings."
+    }
+  ]
+}
