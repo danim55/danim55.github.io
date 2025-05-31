@@ -46,7 +46,7 @@
     "name": "Daniel Merino Cano",
     "title": "Software Engineer",
     "description": "I'm a Software Engineer at Thales Alenia Space, passionate about building robust, scalable full-stack solutions for satellite data processing. I specialize in Angular, TypeScript, HTML/CSS on the front end and Java Spring Boot on the back end, with CI/CD pipelines in GitLab, container orchestration via Kubernetes and Docker, and automation/AI integration using Python. I’m driven by adaptability, critical thinking, and a disciplined, open-minded approach to cybersecurity and system hardening, ensuring every release is resilient and secure. Continuously learning and collaborating across disciplines, I bridge the gap between technology, business needs, and real-world applications.",
-    "image": "assets/img/personal-foto.jpg"
+    "image": "assets/img/personal_foto.jpg"
   },
 
   "home": {
