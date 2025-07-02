@@ -21,8 +21,20 @@
         "Kubernetes"
       ],
       "description": "An application to monitor and control network traffic flows through a control panel.",
-      "image": "assets/projects/SecureAndInteroperableInsuranceApplication.png",
+      "image": "assets/projects/traffic_monitoring_app.png",
       "url": "https://github.com/danim55/traffic-monitoring-app"
+    },
+    {
+      "title": "Traffic monitoring app",
+      "stack": [
+        "Python",
+        "Tensorflow",
+        "Keras",
+        "Opensearch"
+      ],
+      "description": "Train an artificial intelligence model and classify network traffic",
+      "image": "assets/projects/SecureAndInteroperableInsuranceApplication.png",
+      "url": "https://github.com/danim55/IPS-CNN"
     }
   ],
   "education": [
