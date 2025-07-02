@@ -1,11 +1,28 @@
 {
   "projects": [
-        {
+    {
       "title": "Basic API REST app",
-      "stack": ["Python", "Angular", "Docker"],
+      "stack": [
+        "Python",
+        "Angular",
+        "Docker"
+      ],
       "description": "The project involved developing a basic API REST based app with a backend developed in python and the frontend in Angular",
       "image": "assets/projects/SecureAndInteroperableInsuranceApplication.png",
       "url": "https://github.com/danim55/cat_exercise"
+    },
+    {
+      "title": "Traffic monitoring app",
+      "stack": [
+        "Python",
+        "Opensearch",
+        "Docker",
+        "Helm",
+        "Kubernetes"
+      ],
+      "description": "An application to monitor and control network traffic flows through a control panel.",
+      "image": "assets/projects/SecureAndInteroperableInsuranceApplication.png",
+      "url": "https://github.com/danim55/traffic-monitoring-app"
     }
   ],
   "education": [
@@ -48,13 +65,11 @@
     "description": "I'm a Software Engineer at Thales Alenia Space, passionate about building robust, scalable full-stack solutions for satellite data processing. I specialize in Angular, TypeScript, HTML/CSS on the front end and Java Spring Boot on the back end, with CI/CD pipelines in GitLab, container orchestration via Kubernetes and Docker, and automation/AI integration using Python. I’m driven by adaptability, critical thinking, and a disciplined, open-minded approach to cybersecurity and system hardening, ensuring every release is resilient and secure. Continuously learning and collaborating across disciplines, I bridge the gap between technology, business needs, and real-world applications.",
     "image": "assets/img/personal_foto.jpg"
   },
-
   "home": {
     "name": "Daniel<br>Merino Cano",
     "subtitle": "Passionate about <em class='text-primary-light'>developing software solutions</em>, and committed to continuous learn with <em class='text-primary-light'>discipline</em>.",
     "resume": "/assets/Cv_Daniel_Merino_Cano.pdf"
-  }
-  ,
+  },
   "certifications": [
     {
       "title": "Cambridge Certificate",
