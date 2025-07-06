@@ -25,7 +25,7 @@
       "url": "https://github.com/danim55/traffic-monitoring-app"
     },
     {
-      "title": "Traffic monitoring app",
+      "title": "IPS-CNN",
       "stack": [
         "Python",
         "Tensorflow",
